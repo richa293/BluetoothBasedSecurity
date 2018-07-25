@@ -1,7 +1,9 @@
 Bluetooth Based Security
 
-We are presenting a system to keep your data prevented against unauthorized access by using a modified key exchange algorithm. The proposed algorithm finds the vulnerabilities in the original RSA algorithm and overcomes them.This algorithm is then used to encrypt the data on the
-computer, which can then only be used when the authorized device comes in the vicinity of the computer’s bluetooth range. The files are only decrypted once the user enters the bluetooth range and enters the correct password on being asked.
+We are presenting a system to keep your data prevented against unauthorized access by using a modified key exchange algorithm. 
+The proposed algorithm finds the vulnerabilities in the original RSA algorithm and overcomes them.This algorithm is then used to 
+encrypt the data on the computer, which can then only be used when the authorized device comes in the vicinity of the computer’s 
+bluetooth range. The files are only decrypted once the user enters the bluetooth range and enters the correct password on being asked.
 
 Please have a look at our paper to understand our project in depth
 http://academicscience.co.in/admin/resources/project/paper/f201601201453295651.pdf
